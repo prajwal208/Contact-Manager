@@ -1,0 +1,142 @@
+#h12{
+    margin-left:500px;
+    font-size:60px;
+    color:darkblue;
+    margin-top:30px;
+}
+
+.container4{
+    margin-top:50px;
+}
+
+#h33{
+    margin-left:500px;
+    margin-top:30px;
+}
+
+#btn11{
+    margin-top:-90px;
+    margin-left:900px;
+}
+
+.box{
+    width: 500px; 
+    margin-top: 20px;
+    margin-left:500px;
+}
+
+#card11{
+    max-width:540px;
+    height:90px;
+}
+
+#coll{
+    width:80px;
+}
+
+#btn22{
+    width:80px;
+    margin-left:400px;
+    margin-top:-60px;
+    position:relative;
+}
+
+
+#inputt{
+    width:500px;
+    margin-left:500px;
+    margin-top:40px;
+}
+
+#inputt1{
+    width:500px;
+    margin-left:500px;
+    margin-top:20px;
+}
+
+#btnn3{
+    margin-left:500px;
+    margin-top: 10px;
+}
+
+#imagee{
+    width: 70px; 
+    height: 70px; 
+}
+@media screen and (max-width:500px){
+
+    #h12{
+        margin-left:10px;
+        font-size:40px;
+        margin-top:30px;
+        font-weight: 650;
+    }
+
+    .container4{
+        width: 400px;
+        margin-top:50px;
+    }
+
+    #inputt{
+        width:380px;
+        margin-left:10px;
+        margin-top:40px;
+    }
+    
+    #inputt1{
+        width:380px;
+        margin-left:10px;
+        margin-top:20px;
+    }
+
+    #btnn3{
+        margin-left:10px;
+        margin-top: 10px;
+    }
+
+    #card11{
+        max-width:370px;
+        height:100px;
+    }
+    
+    #coll{
+        width:120px;
+    }
+
+    #h33{
+        margin-left:10px;
+        margin-top:30px;
+        font-weight: 500;
+    }
+    
+    #btn11{
+        margin-top:-70px;
+        margin-left:230px;
+    }
+
+    #btn22{
+        width:90px;
+        margin-left:270px;
+        margin-top:-70px;
+        position:relative;
+    }
+
+    .box{
+        width: 500px; 
+        margin-top: 20px;
+        margin-left:10px;
+    }
+
+    #imagee{
+        width: 70px; 
+        height: 70px; 
+    }
+
+    #title11{
+        margin-left: 65px;
+        margin-top: -50px;
+
+    }
+
+
+}
