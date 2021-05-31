@@ -2,14 +2,10 @@ import React, { useState,useEffect } from 'react'
 import Header from './componets/Header.js'
 import AddContact from './componets/AddContact.js'
 import ContactList from './componets/ContactList.js'
-
-
-
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 
 
